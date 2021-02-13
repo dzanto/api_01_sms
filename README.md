@@ -7,4 +7,4 @@
 - Укажите свои параметры в .env
     - Документация API Twilio https://www.twilio.com/docs/sms
     - Документация API VK https://vk.com/dev.php?method=first_guide
-- Запустить утилиту: `python homework.py`
+- Запустить утилиту: `python api_vk_sms.py`
